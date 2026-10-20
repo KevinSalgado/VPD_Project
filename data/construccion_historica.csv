@@ -1,0 +1,649 @@
+nuts_code,region,year,homes_licensed,homes_completed
+111,Alto Minho,2002,1853,NA
+111,Alto Minho,2003,2133,NA
+111,Alto Minho,2004,1848,NA
+111,Alto Minho,2005,1400,NA
+111,Alto Minho,2006,1659,NA
+111,Alto Minho,2007,1487,NA
+111,Alto Minho,2008,1095,NA
+111,Alto Minho,2009,852,NA
+111,Alto Minho,2010,688,NA
+111,Alto Minho,2011,598,785
+111,Alto Minho,2012,581,633
+111,Alto Minho,2013,338,422
+111,Alto Minho,2014,362,341
+111,Alto Minho,2015,409,324
+111,Alto Minho,2016,354,323
+111,Alto Minho,2017,484,265
+111,Alto Minho,2018,681,285
+111,Alto Minho,2019,792,369
+111,Alto Minho,2020,679,579
+111,Alto Minho,2021,745,588
+111,Alto Minho,2022,888,596
+111,Alto Minho,2023,1108,581
+111,Alto Minho,2024,941,656
+111,Alto Minho,2025,1337,582
+112,Cávado,2002,4484,NA
+112,Cávado,2003,3586,NA
+112,Cávado,2004,3493,NA
+112,Cávado,2005,3150,NA
+112,Cávado,2006,2848,NA
+112,Cávado,2007,2609,NA
+112,Cávado,2008,2197,NA
+112,Cávado,2009,1400,NA
+112,Cávado,2010,1383,NA
+112,Cávado,2011,1084,1488
+112,Cávado,2012,854,1396
+112,Cávado,2013,389,721
+112,Cávado,2014,438,481
+112,Cávado,2015,470,420
+112,Cávado,2016,771,435
+112,Cávado,2017,957,583
+112,Cávado,2018,1628,678
+112,Cávado,2019,1986,1048
+112,Cávado,2020,1822,1093
+112,Cávado,2021,1754,1362
+112,Cávado,2022,2008,1706
+112,Cávado,2023,2066,1465
+112,Cávado,2024,2146,1471
+112,Cávado,2025,2727,1710
+119,Ave,2002,4066,NA
+119,Ave,2003,3021,NA
+119,Ave,2004,2687,NA
+119,Ave,2005,2462,NA
+119,Ave,2006,2221,NA
+119,Ave,2007,2137,NA
+119,Ave,2008,1738,NA
+119,Ave,2009,1104,NA
+119,Ave,2010,986,NA
+119,Ave,2011,849,1129
+119,Ave,2012,556,832
+119,Ave,2013,513,660
+119,Ave,2014,459,467
+119,Ave,2015,541,463
+119,Ave,2016,748,476
+119,Ave,2017,1029,516
+119,Ave,2018,1530,658
+119,Ave,2019,1492,884
+119,Ave,2020,1352,1251
+119,Ave,2021,1799,1216
+119,Ave,2022,1816,1225
+119,Ave,2023,1956,1237
+119,Ave,2024,1653,1010
+119,Ave,2025,2019,1457
+11A,Área Metropolitana do Porto,2002,15356,NA
+11A,Área Metropolitana do Porto,2003,10461,NA
+11A,Área Metropolitana do Porto,2004,9993,NA
+11A,Área Metropolitana do Porto,2005,8879,NA
+11A,Área Metropolitana do Porto,2006,9935,NA
+11A,Área Metropolitana do Porto,2007,8697,NA
+11A,Área Metropolitana do Porto,2008,5455,NA
+11A,Área Metropolitana do Porto,2009,3811,NA
+11A,Área Metropolitana do Porto,2010,2852,NA
+11A,Área Metropolitana do Porto,2011,2147,3451
+11A,Área Metropolitana do Porto,2012,1514,2500
+11A,Área Metropolitana do Porto,2013,1047,1833
+11A,Área Metropolitana do Porto,2014,727,1192
+11A,Área Metropolitana do Porto,2015,1044,829
+11A,Área Metropolitana do Porto,2016,1457,1111
+11A,Área Metropolitana do Porto,2017,2065,826
+11A,Área Metropolitana do Porto,2018,3753,1496
+11A,Área Metropolitana do Porto,2019,4843,1542
+11A,Área Metropolitana do Porto,2020,5749,3144
+11A,Área Metropolitana do Porto,2021,6665,4023
+11A,Área Metropolitana do Porto,2022,7474,3743
+11A,Área Metropolitana do Porto,2023,8494,5027
+11A,Área Metropolitana do Porto,2024,8915,5804
+11A,Área Metropolitana do Porto,2025,9720,6184
+11B,Alto Tâmega e Barroso,2002,790,NA
+11B,Alto Tâmega e Barroso,2003,671,NA
+11B,Alto Tâmega e Barroso,2004,650,NA
+11B,Alto Tâmega e Barroso,2005,536,NA
+11B,Alto Tâmega e Barroso,2006,599,NA
+11B,Alto Tâmega e Barroso,2007,366,NA
+11B,Alto Tâmega e Barroso,2008,370,NA
+11B,Alto Tâmega e Barroso,2009,220,NA
+11B,Alto Tâmega e Barroso,2010,209,NA
+11B,Alto Tâmega e Barroso,2011,175,171
+11B,Alto Tâmega e Barroso,2012,151,149
+11B,Alto Tâmega e Barroso,2013,136,109
+11B,Alto Tâmega e Barroso,2014,130,95
+11B,Alto Tâmega e Barroso,2015,156,103
+11B,Alto Tâmega e Barroso,2016,113,75
+11B,Alto Tâmega e Barroso,2017,144,83
+11B,Alto Tâmega e Barroso,2018,169,151
+11B,Alto Tâmega e Barroso,2019,188,95
+11B,Alto Tâmega e Barroso,2020,237,118
+11B,Alto Tâmega e Barroso,2021,210,142
+11B,Alto Tâmega e Barroso,2022,279,172
+11B,Alto Tâmega e Barroso,2023,168,168
+11B,Alto Tâmega e Barroso,2024,216,165
+11B,Alto Tâmega e Barroso,2025,230,176
+11C,Tâmega e Sousa,2002,3659,NA
+11C,Tâmega e Sousa,2003,2907,NA
+11C,Tâmega e Sousa,2004,2583,NA
+11C,Tâmega e Sousa,2005,2254,NA
+11C,Tâmega e Sousa,2006,2075,NA
+11C,Tâmega e Sousa,2007,1886,NA
+11C,Tâmega e Sousa,2008,1841,NA
+11C,Tâmega e Sousa,2009,1424,NA
+11C,Tâmega e Sousa,2010,1275,NA
+11C,Tâmega e Sousa,2011,862,1396
+11C,Tâmega e Sousa,2012,615,1043
+11C,Tâmega e Sousa,2013,527,665
+11C,Tâmega e Sousa,2014,475,493
+11C,Tâmega e Sousa,2015,509,429
+11C,Tâmega e Sousa,2016,559,528
+11C,Tâmega e Sousa,2017,656,482
+11C,Tâmega e Sousa,2018,938,474
+11C,Tâmega e Sousa,2019,1077,638
+11C,Tâmega e Sousa,2020,1265,783
+11C,Tâmega e Sousa,2021,1247,893
+11C,Tâmega e Sousa,2022,1197,851
+11C,Tâmega e Sousa,2023,1232,999
+11C,Tâmega e Sousa,2024,1462,949
+11C,Tâmega e Sousa,2025,2307,1274
+11D,Douro,2002,1805,NA
+11D,Douro,2003,1405,NA
+11D,Douro,2004,1173,NA
+11D,Douro,2005,1206,NA
+11D,Douro,2006,1160,NA
+11D,Douro,2007,955,NA
+11D,Douro,2008,810,NA
+11D,Douro,2009,587,NA
+11D,Douro,2010,492,NA
+11D,Douro,2011,416,547
+11D,Douro,2012,378,502
+11D,Douro,2013,262,322
+11D,Douro,2014,179,180
+11D,Douro,2015,211,191
+11D,Douro,2016,316,153
+11D,Douro,2017,229,184
+11D,Douro,2018,328,178
+11D,Douro,2019,423,208
+11D,Douro,2020,398,218
+11D,Douro,2021,369,271
+11D,Douro,2022,364,278
+11D,Douro,2023,439,256
+11D,Douro,2024,338,249
+11D,Douro,2025,387,229
+11E,Terras de Trás-os-Montes,2002,1313,NA
+11E,Terras de Trás-os-Montes,2003,931,NA
+11E,Terras de Trás-os-Montes,2004,1074,NA
+11E,Terras de Trás-os-Montes,2005,1096,NA
+11E,Terras de Trás-os-Montes,2006,899,NA
+11E,Terras de Trás-os-Montes,2007,778,NA
+11E,Terras de Trás-os-Montes,2008,577,NA
+11E,Terras de Trás-os-Montes,2009,415,NA
+11E,Terras de Trás-os-Montes,2010,326,NA
+11E,Terras de Trás-os-Montes,2011,256,344
+11E,Terras de Trás-os-Montes,2012,223,260
+11E,Terras de Trás-os-Montes,2013,161,219
+11E,Terras de Trás-os-Montes,2014,131,125
+11E,Terras de Trás-os-Montes,2015,204,119
+11E,Terras de Trás-os-Montes,2016,236,161
+11E,Terras de Trás-os-Montes,2017,298,144
+11E,Terras de Trás-os-Montes,2018,348,155
+11E,Terras de Trás-os-Montes,2019,279,219
+11E,Terras de Trás-os-Montes,2020,255,223
+11E,Terras de Trás-os-Montes,2021,444,220
+11E,Terras de Trás-os-Montes,2022,296,309
+11E,Terras de Trás-os-Montes,2023,243,234
+11E,Terras de Trás-os-Montes,2024,313,266
+11E,Terras de Trás-os-Montes,2025,319,261
+150,Algarve,2002,9874,NA
+150,Algarve,2003,10054,NA
+150,Algarve,2004,9138,NA
+150,Algarve,2005,8891,NA
+150,Algarve,2006,8487,NA
+150,Algarve,2007,9751,NA
+150,Algarve,2008,5744,NA
+150,Algarve,2009,2359,NA
+150,Algarve,2010,1734,NA
+150,Algarve,2011,1210,2129
+150,Algarve,2012,543,1198
+150,Algarve,2013,399,742
+150,Algarve,2014,428,540
+150,Algarve,2015,552,536
+150,Algarve,2016,1106,544
+150,Algarve,2017,972,587
+150,Algarve,2018,1496,708
+150,Algarve,2019,1671,935
+150,Algarve,2020,1393,933
+150,Algarve,2021,1822,1171
+150,Algarve,2022,2168,1067
+150,Algarve,2023,1888,1390
+150,Algarve,2024,1730,1706
+150,Algarve,2025,1811,1397
+191,Região de Aveiro,2002,4209,NA
+191,Região de Aveiro,2003,3795,NA
+191,Região de Aveiro,2004,2960,NA
+191,Região de Aveiro,2005,2673,NA
+191,Região de Aveiro,2006,2579,NA
+191,Região de Aveiro,2007,2697,NA
+191,Região de Aveiro,2008,1391,NA
+191,Região de Aveiro,2009,906,NA
+191,Região de Aveiro,2010,913,NA
+191,Região de Aveiro,2011,800,1166
+191,Região de Aveiro,2012,478,825
+191,Região de Aveiro,2013,388,605
+191,Região de Aveiro,2014,346,457
+191,Região de Aveiro,2015,409,424
+191,Região de Aveiro,2016,503,294
+191,Região de Aveiro,2017,615,378
+191,Região de Aveiro,2018,985,511
+191,Região de Aveiro,2019,922,657
+191,Região de Aveiro,2020,1083,721
+191,Região de Aveiro,2021,1067,705
+191,Região de Aveiro,2022,1135,880
+191,Região de Aveiro,2023,1121,709
+191,Região de Aveiro,2024,1172,872
+191,Região de Aveiro,2025,1514,1045
+192,Região de Coimbra,2002,4224,NA
+192,Região de Coimbra,2003,4272,NA
+192,Região de Coimbra,2004,3265,NA
+192,Região de Coimbra,2005,3953,NA
+192,Região de Coimbra,2006,3666,NA
+192,Região de Coimbra,2007,3301,NA
+192,Região de Coimbra,2008,2009,NA
+192,Região de Coimbra,2009,1722,NA
+192,Região de Coimbra,2010,1580,NA
+192,Região de Coimbra,2011,880,1706
+192,Região de Coimbra,2012,624,1192
+192,Região de Coimbra,2013,324,707
+192,Região de Coimbra,2014,351,458
+192,Região de Coimbra,2015,382,279
+192,Região de Coimbra,2016,638,369
+192,Região de Coimbra,2017,592,502
+192,Região de Coimbra,2018,642,476
+192,Região de Coimbra,2019,861,479
+192,Região de Coimbra,2020,809,492
+192,Região de Coimbra,2021,909,569
+192,Região de Coimbra,2022,948,779
+192,Região de Coimbra,2023,1179,912
+192,Região de Coimbra,2024,1699,859
+192,Região de Coimbra,2025,2110,1047
+193,Região de Leiria,2002,3014,NA
+193,Região de Leiria,2003,3124,NA
+193,Região de Leiria,2004,2749,NA
+193,Região de Leiria,2005,2351,NA
+193,Região de Leiria,2006,1703,NA
+193,Região de Leiria,2007,1649,NA
+193,Região de Leiria,2008,1143,NA
+193,Região de Leiria,2009,752,NA
+193,Região de Leiria,2010,927,NA
+193,Região de Leiria,2011,557,742
+193,Região de Leiria,2012,352,681
+193,Região de Leiria,2013,311,417
+193,Região de Leiria,2014,279,304
+193,Região de Leiria,2015,323,235
+193,Região de Leiria,2016,390,309
+193,Região de Leiria,2017,597,274
+193,Região de Leiria,2018,779,409
+193,Região de Leiria,2019,754,453
+193,Região de Leiria,2020,924,586
+193,Região de Leiria,2021,994,604
+193,Região de Leiria,2022,981,733
+193,Região de Leiria,2023,982,828
+193,Região de Leiria,2024,1057,772
+193,Região de Leiria,2025,1627,957
+194,Viseu Dão Lafões,2002,2696,NA
+194,Viseu Dão Lafões,2003,2182,NA
+194,Viseu Dão Lafões,2004,2373,NA
+194,Viseu Dão Lafões,2005,2241,NA
+194,Viseu Dão Lafões,2006,1875,NA
+194,Viseu Dão Lafões,2007,1621,NA
+194,Viseu Dão Lafões,2008,1349,NA
+194,Viseu Dão Lafões,2009,842,NA
+194,Viseu Dão Lafões,2010,911,NA
+194,Viseu Dão Lafões,2011,730,948
+194,Viseu Dão Lafões,2012,605,778
+194,Viseu Dão Lafões,2013,340,468
+194,Viseu Dão Lafões,2014,406,370
+194,Viseu Dão Lafões,2015,490,358
+194,Viseu Dão Lafões,2016,410,384
+194,Viseu Dão Lafões,2017,600,352
+194,Viseu Dão Lafões,2018,759,374
+194,Viseu Dão Lafões,2019,726,455
+194,Viseu Dão Lafões,2020,719,508
+194,Viseu Dão Lafões,2021,749,596
+194,Viseu Dão Lafões,2022,645,476
+194,Viseu Dão Lafões,2023,769,421
+194,Viseu Dão Lafões,2024,608,513
+194,Viseu Dão Lafões,2025,705,557
+195,Beira Baixa,2002,913,NA
+195,Beira Baixa,2003,804,NA
+195,Beira Baixa,2004,854,NA
+195,Beira Baixa,2005,788,NA
+195,Beira Baixa,2006,694,NA
+195,Beira Baixa,2007,558,NA
+195,Beira Baixa,2008,382,NA
+195,Beira Baixa,2009,375,NA
+195,Beira Baixa,2010,371,NA
+195,Beira Baixa,2011,237,289
+195,Beira Baixa,2012,114,237
+195,Beira Baixa,2013,118,153
+195,Beira Baixa,2014,71,80
+195,Beira Baixa,2015,80,59
+195,Beira Baixa,2016,97,108
+195,Beira Baixa,2017,200,72
+195,Beira Baixa,2018,228,133
+195,Beira Baixa,2019,202,204
+195,Beira Baixa,2020,215,173
+195,Beira Baixa,2021,245,171
+195,Beira Baixa,2022,277,154
+195,Beira Baixa,2023,205,178
+195,Beira Baixa,2024,252,172
+195,Beira Baixa,2025,250,214
+196,Beiras e Serra da Estrela,2002,1539,NA
+196,Beiras e Serra da Estrela,2003,1446,NA
+196,Beiras e Serra da Estrela,2004,1226,NA
+196,Beiras e Serra da Estrela,2005,1443,NA
+196,Beiras e Serra da Estrela,2006,1039,NA
+196,Beiras e Serra da Estrela,2007,995,NA
+196,Beiras e Serra da Estrela,2008,751,NA
+196,Beiras e Serra da Estrela,2009,423,NA
+196,Beiras e Serra da Estrela,2010,331,NA
+196,Beiras e Serra da Estrela,2011,306,373
+196,Beiras e Serra da Estrela,2012,155,286
+196,Beiras e Serra da Estrela,2013,135,219
+196,Beiras e Serra da Estrela,2014,144,109
+196,Beiras e Serra da Estrela,2015,184,90
+196,Beiras e Serra da Estrela,2016,251,167
+196,Beiras e Serra da Estrela,2017,264,181
+196,Beiras e Serra da Estrela,2018,345,190
+196,Beiras e Serra da Estrela,2019,277,219
+196,Beiras e Serra da Estrela,2020,280,182
+196,Beiras e Serra da Estrela,2021,273,213
+196,Beiras e Serra da Estrela,2022,360,264
+196,Beiras e Serra da Estrela,2023,375,216
+196,Beiras e Serra da Estrela,2024,393,358
+196,Beiras e Serra da Estrela,2025,604,345
+1A0,Grande Lisboa,2002,10429,NA
+1A0,Grande Lisboa,2003,11434,NA
+1A0,Grande Lisboa,2004,9991,NA
+1A0,Grande Lisboa,2005,10230,NA
+1A0,Grande Lisboa,2006,10506,NA
+1A0,Grande Lisboa,2007,8571,NA
+1A0,Grande Lisboa,2008,5486,NA
+1A0,Grande Lisboa,2009,2744,NA
+1A0,Grande Lisboa,2010,3196,NA
+1A0,Grande Lisboa,2011,1986,2980
+1A0,Grande Lisboa,2012,1334,2551
+1A0,Grande Lisboa,2013,442,1459
+1A0,Grande Lisboa,2014,519,781
+1A0,Grande Lisboa,2015,706,627
+1A0,Grande Lisboa,2016,1026,473
+1A0,Grande Lisboa,2017,1757,632
+1A0,Grande Lisboa,2018,2630,917
+1A0,Grande Lisboa,2019,3592,1360
+1A0,Grande Lisboa,2020,3636,1583
+1A0,Grande Lisboa,2021,4089,2572
+1A0,Grande Lisboa,2022,4250,3114
+1A0,Grande Lisboa,2023,4609,2609
+1A0,Grande Lisboa,2024,4341,2850
+1A0,Grande Lisboa,2025,6406,3545
+1B0,Península de Setúbal,2002,7025,NA
+1B0,Península de Setúbal,2003,4770,NA
+1B0,Península de Setúbal,2004,5927,NA
+1B0,Península de Setúbal,2005,5624,NA
+1B0,Península de Setúbal,2006,6250,NA
+1B0,Península de Setúbal,2007,5337,NA
+1B0,Península de Setúbal,2008,3842,NA
+1B0,Península de Setúbal,2009,1996,NA
+1B0,Península de Setúbal,2010,1741,NA
+1B0,Península de Setúbal,2011,918,1835
+1B0,Península de Setúbal,2012,412,1090
+1B0,Península de Setúbal,2013,252,609
+1B0,Península de Setúbal,2014,350,352
+1B0,Península de Setúbal,2015,526,449
+1B0,Península de Setúbal,2016,977,553
+1B0,Península de Setúbal,2017,1365,674
+1B0,Península de Setúbal,2018,1767,1127
+1B0,Península de Setúbal,2019,2460,1228
+1B0,Península de Setúbal,2020,2013,1644
+1B0,Península de Setúbal,2021,2377,1902
+1B0,Península de Setúbal,2022,2606,1662
+1B0,Península de Setúbal,2023,2197,1790
+1B0,Península de Setúbal,2024,2616,1918
+1B0,Península de Setúbal,2025,2073,2332
+1C1,Alentejo Litoral,2002,1033,NA
+1C1,Alentejo Litoral,2003,710,NA
+1C1,Alentejo Litoral,2004,792,NA
+1C1,Alentejo Litoral,2005,849,NA
+1C1,Alentejo Litoral,2006,767,NA
+1C1,Alentejo Litoral,2007,719,NA
+1C1,Alentejo Litoral,2008,468,NA
+1C1,Alentejo Litoral,2009,400,NA
+1C1,Alentejo Litoral,2010,382,NA
+1C1,Alentejo Litoral,2011,269,397
+1C1,Alentejo Litoral,2012,230,244
+1C1,Alentejo Litoral,2013,149,226
+1C1,Alentejo Litoral,2014,114,158
+1C1,Alentejo Litoral,2015,124,79
+1C1,Alentejo Litoral,2016,143,97
+1C1,Alentejo Litoral,2017,122,84
+1C1,Alentejo Litoral,2018,213,103
+1C1,Alentejo Litoral,2019,264,113
+1C1,Alentejo Litoral,2020,218,189
+1C1,Alentejo Litoral,2021,285,159
+1C1,Alentejo Litoral,2022,317,163
+1C1,Alentejo Litoral,2023,248,201
+1C1,Alentejo Litoral,2024,588,270
+1C1,Alentejo Litoral,2025,414,246
+1C2,Baixo Alentejo,2002,898,NA
+1C2,Baixo Alentejo,2003,616,NA
+1C2,Baixo Alentejo,2004,682,NA
+1C2,Baixo Alentejo,2005,586,NA
+1C2,Baixo Alentejo,2006,833,NA
+1C2,Baixo Alentejo,2007,673,NA
+1C2,Baixo Alentejo,2008,459,NA
+1C2,Baixo Alentejo,2009,200,NA
+1C2,Baixo Alentejo,2010,291,NA
+1C2,Baixo Alentejo,2011,184,206
+1C2,Baixo Alentejo,2012,76,285
+1C2,Baixo Alentejo,2013,81,74
+1C2,Baixo Alentejo,2014,53,83
+1C2,Baixo Alentejo,2015,96,64
+1C2,Baixo Alentejo,2016,98,58
+1C2,Baixo Alentejo,2017,109,99
+1C2,Baixo Alentejo,2018,155,85
+1C2,Baixo Alentejo,2019,145,110
+1C2,Baixo Alentejo,2020,136,100
+1C2,Baixo Alentejo,2021,150,113
+1C2,Baixo Alentejo,2022,148,113
+1C2,Baixo Alentejo,2023,129,117
+1C2,Baixo Alentejo,2024,123,110
+1C2,Baixo Alentejo,2025,103,106
+1C3,Alto Alentejo,2002,640,NA
+1C3,Alto Alentejo,2003,703,NA
+1C3,Alto Alentejo,2004,717,NA
+1C3,Alto Alentejo,2005,818,NA
+1C3,Alto Alentejo,2006,702,NA
+1C3,Alto Alentejo,2007,527,NA
+1C3,Alto Alentejo,2008,367,NA
+1C3,Alto Alentejo,2009,355,NA
+1C3,Alto Alentejo,2010,195,NA
+1C3,Alto Alentejo,2011,127,174
+1C3,Alto Alentejo,2012,84,114
+1C3,Alto Alentejo,2013,51,72
+1C3,Alto Alentejo,2014,54,48
+1C3,Alto Alentejo,2015,46,55
+1C3,Alto Alentejo,2016,84,46
+1C3,Alto Alentejo,2017,81,61
+1C3,Alto Alentejo,2018,73,79
+1C3,Alto Alentejo,2019,112,72
+1C3,Alto Alentejo,2020,93,62
+1C3,Alto Alentejo,2021,132,97
+1C3,Alto Alentejo,2022,79,121
+1C3,Alto Alentejo,2023,98,83
+1C3,Alto Alentejo,2024,174,87
+1C3,Alto Alentejo,2025,134,189
+1C4,Alentejo Central,2002,1140,NA
+1C4,Alentejo Central,2003,874,NA
+1C4,Alentejo Central,2004,1021,NA
+1C4,Alentejo Central,2005,1147,NA
+1C4,Alentejo Central,2006,763,NA
+1C4,Alentejo Central,2007,705,NA
+1C4,Alentejo Central,2008,491,NA
+1C4,Alentejo Central,2009,518,NA
+1C4,Alentejo Central,2010,307,NA
+1C4,Alentejo Central,2011,315,311
+1C4,Alentejo Central,2012,194,326
+1C4,Alentejo Central,2013,150,158
+1C4,Alentejo Central,2014,59,110
+1C4,Alentejo Central,2015,84,99
+1C4,Alentejo Central,2016,106,159
+1C4,Alentejo Central,2017,115,68
+1C4,Alentejo Central,2018,160,113
+1C4,Alentejo Central,2019,189,119
+1C4,Alentejo Central,2020,204,200
+1C4,Alentejo Central,2021,205,180
+1C4,Alentejo Central,2022,297,147
+1C4,Alentejo Central,2023,166,179
+1C4,Alentejo Central,2024,201,182
+1C4,Alentejo Central,2025,240,126
+1D1,Oeste,2002,4265,NA
+1D1,Oeste,2003,3638,NA
+1D1,Oeste,2004,2866,NA
+1D1,Oeste,2005,3076,NA
+1D1,Oeste,2006,3095,NA
+1D1,Oeste,2007,2886,NA
+1D1,Oeste,2008,2529,NA
+1D1,Oeste,2009,1460,NA
+1D1,Oeste,2010,1351,NA
+1D1,Oeste,2011,790,1338
+1D1,Oeste,2012,520,802
+1D1,Oeste,2013,377,608
+1D1,Oeste,2014,372,418
+1D1,Oeste,2015,384,298
+1D1,Oeste,2016,514,425
+1D1,Oeste,2017,614,414
+1D1,Oeste,2018,1042,582
+1D1,Oeste,2019,1054,489
+1D1,Oeste,2020,998,782
+1D1,Oeste,2021,1277,867
+1D1,Oeste,2022,1597,880
+1D1,Oeste,2023,1446,1153
+1D1,Oeste,2024,1726,1281
+1D1,Oeste,2025,2087,1264
+1D2,Médio Tejo,2002,1967,NA
+1D2,Médio Tejo,2003,1794,NA
+1D2,Médio Tejo,2004,1511,NA
+1D2,Médio Tejo,2005,1212,NA
+1D2,Médio Tejo,2006,1491,NA
+1D2,Médio Tejo,2007,971,NA
+1D2,Médio Tejo,2008,776,NA
+1D2,Médio Tejo,2009,568,NA
+1D2,Médio Tejo,2010,586,NA
+1D2,Médio Tejo,2011,317,567
+1D2,Médio Tejo,2012,178,484
+1D2,Médio Tejo,2013,108,211
+1D2,Médio Tejo,2014,124,155
+1D2,Médio Tejo,2015,179,146
+1D2,Médio Tejo,2016,250,161
+1D2,Médio Tejo,2017,176,179
+1D2,Médio Tejo,2018,228,195
+1D2,Médio Tejo,2019,284,179
+1D2,Médio Tejo,2020,318,240
+1D2,Médio Tejo,2021,434,192
+1D2,Médio Tejo,2022,337,311
+1D2,Médio Tejo,2023,315,223
+1D2,Médio Tejo,2024,475,292
+1D2,Médio Tejo,2025,583,336
+1D3,Lezíria do Tejo,2002,2239,NA
+1D3,Lezíria do Tejo,2003,1779,NA
+1D3,Lezíria do Tejo,2004,1795,NA
+1D3,Lezíria do Tejo,2005,2092,NA
+1D3,Lezíria do Tejo,2006,1824,NA
+1D3,Lezíria do Tejo,2007,1800,NA
+1D3,Lezíria do Tejo,2008,1383,NA
+1D3,Lezíria do Tejo,2009,554,NA
+1D3,Lezíria do Tejo,2010,553,NA
+1D3,Lezíria do Tejo,2011,393,561
+1D3,Lezíria do Tejo,2012,228,375
+1D3,Lezíria do Tejo,2013,140,223
+1D3,Lezíria do Tejo,2014,113,158
+1D3,Lezíria do Tejo,2015,202,110
+1D3,Lezíria do Tejo,2016,241,135
+1D3,Lezíria do Tejo,2017,198,200
+1D3,Lezíria do Tejo,2018,264,209
+1D3,Lezíria do Tejo,2019,299,237
+1D3,Lezíria do Tejo,2020,327,361
+1D3,Lezíria do Tejo,2021,390,253
+1D3,Lezíria do Tejo,2022,450,318
+1D3,Lezíria do Tejo,2023,493,375
+1D3,Lezíria do Tejo,2024,449,412
+1D3,Lezíria do Tejo,2025,628,405
+20,Região Autónoma dos Açores,2002,3115,NA
+20,Região Autónoma dos Açores,2003,1592,NA
+20,Região Autónoma dos Açores,2004,1621,NA
+20,Região Autónoma dos Açores,2005,1778,NA
+20,Região Autónoma dos Açores,2006,2197,NA
+20,Região Autónoma dos Açores,2007,2341,NA
+20,Região Autónoma dos Açores,2008,1673,NA
+20,Região Autónoma dos Açores,2009,703,NA
+20,Região Autónoma dos Açores,2010,913,NA
+20,Região Autónoma dos Açores,2011,724,700
+20,Região Autónoma dos Açores,2012,264,538
+20,Região Autónoma dos Açores,2013,225,487
+20,Região Autónoma dos Açores,2014,173,185
+20,Região Autónoma dos Açores,2015,262,236
+20,Região Autónoma dos Açores,2016,239,221
+20,Região Autónoma dos Açores,2017,375,210
+20,Região Autónoma dos Açores,2018,427,285
+20,Região Autónoma dos Açores,2019,558,347
+20,Região Autónoma dos Açores,2020,543,344
+20,Região Autónoma dos Açores,2021,624,468
+20,Região Autónoma dos Açores,2022,635,397
+20,Região Autónoma dos Açores,2023,516,490
+20,Região Autónoma dos Açores,2024,662,515
+20,Região Autónoma dos Açores,2025,751,446
+30,Região Autónoma da Madeira,2002,3127,NA
+30,Região Autónoma da Madeira,2003,2844,NA
+30,Região Autónoma da Madeira,2004,4126,NA
+30,Região Autónoma da Madeira,2005,3187,NA
+30,Região Autónoma da Madeira,2006,2054,NA
+30,Região Autónoma da Madeira,2007,1811,NA
+30,Região Autónoma da Madeira,2008,1655,NA
+30,Região Autónoma da Madeira,2009,608,NA
+30,Região Autónoma da Madeira,2010,509,NA
+30,Região Autónoma da Madeira,2011,485,649
+30,Região Autónoma da Madeira,2012,249,363
+30,Região Autónoma da Madeira,2013,131,362
+30,Região Autónoma da Madeira,2014,139,173
+30,Região Autónoma da Madeira,2015,113,126
+30,Região Autónoma da Madeira,2016,190,144
+30,Região Autónoma da Madeira,2017,353,163
+30,Região Autónoma da Madeira,2018,328,180
+30,Região Autónoma da Madeira,2019,374,295
+30,Região Autónoma da Madeira,2020,502,414
+30,Região Autónoma da Madeira,2021,839,379
+30,Região Autónoma da Madeira,2022,680,588
+30,Região Autónoma da Madeira,2023,1118,439
+30,Região Autónoma da Madeira,2024,1121,927
+30,Região Autónoma da Madeira,2025,980,871
+PT,Portugal,2002,95673,NA
+PT,Portugal,2003,81546,NA
+PT,Portugal,2004,77115,NA
+PT,Portugal,2005,73922,NA
+PT,Portugal,2006,71921,NA
+PT,Portugal,2007,65828,NA
+PT,Portugal,2008,45981,NA
+PT,Portugal,2009,27298,NA
+PT,Portugal,2010,25002,NA
+PT,Portugal,2011,17615,26382
+PT,Portugal,2012,11512,19684
+PT,Portugal,2013,7494,12751
+PT,Portugal,2014,6996,8313
+PT,Portugal,2015,8686,7148
+PT,Portugal,2016,11817,7909
+PT,Portugal,2017,14967,8213
+PT,Portugal,2018,21896,10751
+PT,Portugal,2019,25824,12954
+PT,Portugal,2020,26168,16923
+PT,Portugal,2021,30094,19926
+PT,Portugal,2022,32232,21047
+PT,Portugal,2023,33560,22280
+PT,Portugal,2024,35371,24666
+PT,Portugal,2025,42066,27301

@@ -1,0 +1,190 @@
+nuts_code,region,year,sale_price_m2,rent_m2
+111,Alto Minho,2019,846,NA
+111,Alto Minho,2020,891,4
+111,Alto Minho,2021,945,4.29
+111,Alto Minho,2022,1064,4.69
+111,Alto Minho,2023,1108,5.35
+111,Alto Minho,2024,1248,6
+111,Alto Minho,2025,1401,6.51
+112,Cávado,2019,910,NA
+112,Cávado,2020,997,4.93
+112,Cávado,2021,1091,5.14
+112,Cávado,2022,1230,5.77
+112,Cávado,2023,1385,6.59
+112,Cávado,2024,1527,7.38
+112,Cávado,2025,1805,7.83
+119,Ave,2019,821,NA
+119,Ave,2020,899,3.52
+119,Ave,2021,976,3.76
+119,Ave,2022,1050,4.14
+119,Ave,2023,1150,4.69
+119,Ave,2024,1256,5.26
+119,Ave,2025,1548,5.98
+11A,Área Metropolitana do Porto,2019,1108,NA
+11A,Área Metropolitana do Porto,2020,1243,6.14
+11A,Área Metropolitana do Porto,2021,1370,6.57
+11A,Área Metropolitana do Porto,2022,1607,7.29
+11A,Área Metropolitana do Porto,2023,1800,8.21
+11A,Área Metropolitana do Porto,2024,1986,9.14
+11A,Área Metropolitana do Porto,2025,2305,10.17
+11B,Alto Tâmega e Barroso,2019,600,NA
+11B,Alto Tâmega e Barroso,2020,641,3.33
+11B,Alto Tâmega e Barroso,2021,641,3.5
+11B,Alto Tâmega e Barroso,2022,738,3.75
+11B,Alto Tâmega e Barroso,2023,735,4
+11B,Alto Tâmega e Barroso,2024,817,4.17
+11B,Alto Tâmega e Barroso,2025,881,4.71
+11C,Tâmega e Sousa,2019,675,NA
+11C,Tâmega e Sousa,2020,749,2.83
+11C,Tâmega e Sousa,2021,780,3.03
+11C,Tâmega e Sousa,2022,859,3.26
+11C,Tâmega e Sousa,2023,913,3.68
+11C,Tâmega e Sousa,2024,983,4.05
+11C,Tâmega e Sousa,2025,1185,4.65
+11D,Douro,2019,571,NA
+11D,Douro,2020,586,3.28
+11D,Douro,2021,636,3.5
+11D,Douro,2022,653,3.68
+11D,Douro,2023,654,4
+11D,Douro,2024,622,4.35
+11D,Douro,2025,769,4.68
+11E,Terras de Trás-os-Montes,2019,604,NA
+11E,Terras de Trás-os-Montes,2020,642,2.75
+11E,Terras de Trás-os-Montes,2021,635,2.9
+11E,Terras de Trás-os-Montes,2022,705,3.01
+11E,Terras de Trás-os-Montes,2023,699,3.31
+11E,Terras de Trás-os-Montes,2024,710,3.52
+11E,Terras de Trás-os-Montes,2025,857,3.86
+150,Algarve,2019,1696,NA
+150,Algarve,2020,1816,6.73
+150,Algarve,2021,2000,6.94
+150,Algarve,2022,2339,7.7
+150,Algarve,2023,2613,8.61
+150,Algarve,2024,2752,9.74
+150,Algarve,2025,3139,10.53
+191,Região de Aveiro,2019,875,NA
+191,Região de Aveiro,2020,944,4.51
+191,Região de Aveiro,2021,1008,4.88
+191,Região de Aveiro,2022,1158,5.35
+191,Região de Aveiro,2023,1283,6.11
+191,Região de Aveiro,2024,1372,6.79
+191,Região de Aveiro,2025,1591,7.33
+192,Região de Coimbra,2019,846,NA
+192,Região de Coimbra,2020,909,4.67
+192,Região de Coimbra,2021,942,4.91
+192,Região de Coimbra,2022,1043,5.22
+192,Região de Coimbra,2023,1086,5.98
+192,Região de Coimbra,2024,1188,6.69
+192,Região de Coimbra,2025,1372,7.32
+193,Região de Leiria,2019,797,NA
+193,Região de Leiria,2020,851,4.22
+193,Região de Leiria,2021,893,4.39
+193,Região de Leiria,2022,1009,4.84
+193,Região de Leiria,2023,1138,5.53
+193,Região de Leiria,2024,1190,6.1
+193,Região de Leiria,2025,1414,6.61
+194,Viseu Dão Lafões,2019,708,NA
+194,Viseu Dão Lafões,2020,711,3.6
+194,Viseu Dão Lafões,2021,748,3.83
+194,Viseu Dão Lafões,2022,767,4.26
+194,Viseu Dão Lafões,2023,753,4.76
+194,Viseu Dão Lafões,2024,809,5.34
+194,Viseu Dão Lafões,2025,961,5.77
+195,Beira Baixa,2019,573,NA
+195,Beira Baixa,2020,580,3.18
+195,Beira Baixa,2021,580,3.43
+195,Beira Baixa,2022,618,3.61
+195,Beira Baixa,2023,556,4.09
+195,Beira Baixa,2024,583,4.61
+195,Beira Baixa,2025,741,4.79
+196,Beiras e Serra da Estrela,2019,515,NA
+196,Beiras e Serra da Estrela,2020,569,2.99
+196,Beiras e Serra da Estrela,2021,550,3.17
+196,Beiras e Serra da Estrela,2022,570,3.44
+196,Beiras e Serra da Estrela,2023,573,3.85
+196,Beiras e Serra da Estrela,2024,595,4.29
+196,Beiras e Serra da Estrela,2025,690,4.81
+1A0,Grande Lisboa,2019,1820,NA
+1A0,Grande Lisboa,2020,1995,9.38
+1A0,Grande Lisboa,2021,2161,9.57
+1A0,Grande Lisboa,2022,2454,10.65
+1A0,Grande Lisboa,2023,2740,12.15
+1A0,Grande Lisboa,2024,2939,13.33
+1A0,Grande Lisboa,2025,3439,14.19
+1B0,Península de Setúbal,2019,1142,NA
+1B0,Península de Setúbal,2020,1314,6.63
+1B0,Península de Setúbal,2021,1459,7.1
+1B0,Península de Setúbal,2022,1709,7.91
+1B0,Península de Setúbal,2023,1901,8.93
+1B0,Península de Setúbal,2024,2117,10.16
+1B0,Península de Setúbal,2025,2596,11.04
+1C1,Alentejo Litoral,2019,1010,NA
+1C1,Alentejo Litoral,2020,1099,4.66
+1C1,Alentejo Litoral,2021,1203,5.15
+1C1,Alentejo Litoral,2022,1431,5.71
+1C1,Alentejo Litoral,2023,1605,6.82
+1C1,Alentejo Litoral,2024,1741,7.84
+1C1,Alentejo Litoral,2025,2018,8.38
+1C2,Baixo Alentejo,2019,536,NA
+1C2,Baixo Alentejo,2020,564,3.88
+1C2,Baixo Alentejo,2021,591,3.85
+1C2,Baixo Alentejo,2022,646,4.13
+1C2,Baixo Alentejo,2023,629,4.71
+1C2,Baixo Alentejo,2024,688,5.29
+1C2,Baixo Alentejo,2025,878,5.58
+1C3,Alto Alentejo,2019,438,NA
+1C3,Alto Alentejo,2020,456,2.99
+1C3,Alto Alentejo,2021,473,3.01
+1C3,Alto Alentejo,2022,500,3.4
+1C3,Alto Alentejo,2023,520,3.6
+1C3,Alto Alentejo,2024,590,4.13
+1C3,Alto Alentejo,2025,744,4.24
+1C4,Alentejo Central,2019,732,NA
+1C4,Alentejo Central,2020,778,3.91
+1C4,Alentejo Central,2021,784,4.14
+1C4,Alentejo Central,2022,917,4.45
+1C4,Alentejo Central,2023,961,4.97
+1C4,Alentejo Central,2024,1002,5.37
+1C4,Alentejo Central,2025,1176,5.94
+1D1,Oeste,2019,929,NA
+1D1,Oeste,2020,1019,4.57
+1D1,Oeste,2021,1138,4.85
+1D1,Oeste,2022,1297,5.41
+1D1,Oeste,2023,1469,6.25
+1D1,Oeste,2024,1613,7.06
+1D1,Oeste,2025,1926,7.69
+1D2,Médio Tejo,2019,598,NA
+1D2,Médio Tejo,2020,650,3.57
+1D2,Médio Tejo,2021,655,3.77
+1D2,Médio Tejo,2022,740,4.24
+1D2,Médio Tejo,2023,833,4.94
+1D2,Médio Tejo,2024,937,5.56
+1D2,Médio Tejo,2025,1167,6.34
+1D3,Lezíria do Tejo,2019,703,NA
+1D3,Lezíria do Tejo,2020,800,4
+1D3,Lezíria do Tejo,2021,822,4.24
+1D3,Lezíria do Tejo,2022,935,4.63
+1D3,Lezíria do Tejo,2023,1061,5.26
+1D3,Lezíria do Tejo,2024,1218,6.03
+1D3,Lezíria do Tejo,2025,1480,6.55
+20,Região Autónoma dos Açores,2019,779,NA
+20,Região Autónoma dos Açores,2020,874,4.47
+20,Região Autónoma dos Açores,2021,903,4.54
+20,Região Autónoma dos Açores,2022,1034,4.9
+20,Região Autónoma dos Açores,2023,1105,5.15
+20,Região Autónoma dos Açores,2024,1179,5.46
+20,Região Autónoma dos Açores,2025,1426,5.94
+30,Região Autónoma da Madeira,2019,1214,NA
+30,Região Autónoma da Madeira,2020,1303,6.32
+30,Região Autónoma da Madeira,2021,1436,6.64
+30,Região Autónoma da Madeira,2022,1571,7.86
+30,Região Autónoma da Madeira,2023,1889,9.16
+30,Região Autónoma da Madeira,2024,2395,10.61
+30,Região Autónoma da Madeira,2025,2500,11.32
+PT,Portugal,2019,1094,NA
+PT,Portugal,2020,1190,5.79
+PT,Portugal,2021,1297,6.31
+PT,Portugal,2022,1484,6.88
+PT,Portugal,2023,1611,7.62
+PT,Portugal,2024,1777,8.47
+PT,Portugal,2025,2076,9.29

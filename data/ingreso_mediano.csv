@@ -1,0 +1,78 @@
+
+Quadro extraído em 20 de Outubro de 2026 (12:47:55)
+http://www.ine.pt
+
+
+
+Localização geográfica (NUTS - 2024);Valor mediano do rendimento bruto declarado por sujeito passivo (?) por Localização geográfica (NUTS - 2024) -  Anual (1) ;;;;;;;
+;Período de referência dos dados;;;;;;;
+;2024;2023;2022;2021;2020;2019;2018;
+;? ;? ;? ;? ;? ;? ;? ;
+PT: Portugal;12666;11845;11103;10540;10023;9880;9431;
+1: Continente;12659;11842;11108;10555;10033;9893;9444;
+11: Norte;11951;11085;10332;9706;9191;9000;8572;
+111: Alto Minho;11646;10755;9993;9427;8951;8728;8317;
+112: Cávado;12116;11240;10474;9897;9313;9100;8648;
+119: Ave;11677;10819;10108;9506;9009;8765;8393;
+11A: Área Metropolitana do Porto;12694;11841;11037;10443;9882;9772;9293;
+11B: Alto Tâmega e Barroso;10523;9637;8997;8350;7962;7652;7186;
+11C: Tâmega e Sousa;10728;9938;9302;8657;8111;7915;7497;
+11D: Douro;11258;10342;9694;9073;8603;8309;7783;
+11E: Terras de Trás-os-Montes;11480;10640;9888;9310;8916;8560;8159;
+19: Centro;12588;11722;10947;10406;9863;9651;9183;
+191: Região de Aveiro;12894;12015;11228;10730;10073;9926;9510;
+192: Região de Coimbra;13052;12166;11360;10795;10311;10077;9566;
+193: Região de Leiria;12878;12043;11328;10812;10285;10081;9662;
+194: Viseu Dão Lafões;12046;11163;10392;9820;9363;9129;8651;
+195: Beira Baixa;12108;11259;10486;9935;9478;9190;8789;
+196: Beiras e Serra da Estrela;11751;10891;10133;9523;9084;8807;8359;
+1D: Oeste e Vale do Tejo;12413;11548;10836;10281;9776;9553;9088;
+1D1: Oeste;12322;11480;10766;10188;9674;9482;9021;
+1D2: Médio Tejo;12462;11608;10863;10306;9849;9628;9201;
+1D3: Lezíria do Tejo;12510;11601;10926;10402;9860;9593;9086;
+1A: Grande Lisboa;14516;13796;13228;12649;12186;12154;11707;
+1A0: Grande Lisboa;14516;13796;13228;12649;12186;12154;11707;
+1B: Península de Setúbal;13880;13103;12455;11932;11449;11370;10930;
+1B0: Península de Setúbal;13880;13103;12455;11932;11449;11370;10930;
+1C: Alentejo;12312;11498;10815;10290;9783;9602;9190;
+1C1: Alentejo Litoral;11702;10923;10463;10128;9523;9431;9147;
+1C2: Baixo Alentejo;12281;11462;10768;10203;9723;9510;9062;
+1C3: Alto Alentejo;12211;11357;10567;9977;9558;9298;8910;
+1C4: Alentejo Central;12859;12017;11250;10662;10162;9999;9517;
+15: Algarve;12095;11310;10622;9870;9406;9503;9143;
+150: Algarve;12095;11310;10622;9870;9406;9503;9143;
+2: Região Autónoma dos Açores;12766;11893;11013;10279;9858;9529;9064;
+20: Região Autónoma dos Açores;12766;11893;11013;10279;9858;9529;9064;
+3: Região Autónoma da Madeira;12840;11922;10973;10270;9838;9762;9329;
+30: Região Autónoma da Madeira;12840;11922;10973;10270;9838;9762;9329;
+
+Valor mediano do rendimento bruto declarado por sujeito passivo (?) por Localização geográfica (NUTS - 2024) -  Anual - INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.
+
+Nota(s):
+(1) A informação exclui os agregados fiscais com rendimento bruto declarado deduzido do IRS liquidado menor que zero.
+
+
+
+Última atualização destes dados: 24 de julho de 2026
+
+
+Metainforma&ccedil;&atilde;o associada ao quadro
+
+Valor mediano do rendimento bruto declarado por sujeito passivo (?)
+Designação;Valor mediano do rendimento bruto declarado por sujeito passivo (?) por Localização geográfica (NUTS - 2024) -  Anual
+Periodicidade;Anual
+Fonte;INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.
+Primeiro período disponível;2018
+Último per?odo disponível;2024
+Dimensões
+     Dimens&atilde;o 1;Período de referência dos dados
+     Dimens&atilde;o 2;Localização geográfica (NUTS - 2024)
+Conceitos
+     PERÍODO DE REFERÊNCIA;Período a que a informação se refere e que pode ser um dia específico ou um intervalo de tempo (mês, ano fiscal, ano civil, entre outros).
+     SUJEITO PASSIVO;Pessoa singular que reside em território português e que, nele não residindo, aí obtém rendimentos.
+     RENDIMENTO BRUTO DECLARADO;Rendimento que corresponde: 1) ao valor do rendimento não isento antes de efetuada qualquer dedução específica para as categorias A (Trabalho dependente) e H (Pensões); 2) ao valor do rendimento líquido, ou seja, ao valor do rendimento depois de efetuadas as respetivas deduções específicas, para as restantes categorias.
+Definição;
+Fórmula;Valor mediano do rendimento bruto declarado/ N.&ordm -  de sujeitos passivos
+Unidade de Medida (símbolo);Euro (?)
+Potência de 10;0
+Data da última atualização;24-Jul-2026
