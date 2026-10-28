@@ -2,7 +2,7 @@
 # Figura final do projeto de VPDA (mapa com casas + tiras de pontos).
 #
 # ficheiros necessários (na pasta data/):
-#  - datos_unidos.csv
+#  - merged_data.csv  (feito no notebook merge_ine_data.ipynb; inclui os estrangeiros de 2024 da AIMA)
 #  - nuts3_portugal_2024.geojson  (limites das regiões, Eurostat/GISCO)
 #
 # como correr: abrir este ficheiro a partir da pasta do projeto e correr tudo de cima para baixo
@@ -60,7 +60,7 @@ em_pt <- function(tamanho) tamanho / .pt
 # 2. DADOS
 # ---------------------------------------------------------------------
 dados_todos <- read_csv(
-  "data/datos_unidos.csv",
+  "data/merged_data.csv",
   col_types = cols(nuts_code = col_character()),
   show_col_types = FALSE
 )
@@ -99,7 +99,7 @@ caracteristicas <- dados_todos |>
   group_by(nuts_code) |>
   summarise(
     cresc_pop  = (population[year == 2024] / population[year == 2021] - 1) * 100,
-    estrang_pct = foreign_residents[year == 2023] / population[year == 2023] * 100,  # 2023 é o último ano
+    estrang_pct = foreign_residents_aima_2024[year == 2024] / population[year == 2024] * 100,   # 2024, fonte AIMA
     noites_por_residente = tourist_nights[year == 2024] / population[year == 2024],
     jovens_pct = share_20_34[year == 2024],   # já vem em percentagem
     .groups = "drop"
@@ -543,7 +543,7 @@ p_crescimento <- fazer_tira(
 p_estrangeiros <- fazer_tira(
   caracteristicas$estrang_pct,
   titulo    = "Where more foreign residents live",
-  legenda_x = "Foreign residents, 2023 (% of the population)"
+  legenda_x = "Foreign residents, 2024 (% of the population)"
 )
 
 p_turismo <- fazer_tira(
@@ -593,7 +593,8 @@ subtitulo_figura <- paste0(
 rodape_figura <- paste0(
   "Authors: Group T06 - Kevin Gomez, Lara Ribeiro, Maria Benedita Marques   |   ",
   "Created on ", format(Sys.Date(), "%d/%m/%Y"), "   |   ",
-  "Sources: INE (rents of new leases, population, foreign residents, tourist nights); ",
+  "Sources: INE (rents of new leases, population, tourist nights); ",
+  "AIMA (foreign residents, 2024); ",
   "MTSSS/GEP (earnings); Eurostat/GISCO (boundaries)"
 )
 
