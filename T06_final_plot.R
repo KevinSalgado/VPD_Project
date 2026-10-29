@@ -19,8 +19,13 @@ library(patchwork)  # para juntar vários gráficos numa só figura
 # 1. DEFINIÇÕES (tipo de letra, tamanhos e cores)
 # ---------------------------------------------------------------------
 
-# tipo de letra de toda a figura (o Segoe UI existe em todos os Windows)
-tipo_letra <- "Segoe UI"
+# tipo de letra de toda a figura (Noto Sans; registamos os ficheiros normal e negrito)
+systemfonts::register_font(
+  name  = "Noto Sans T06",
+  plain = "C:/Windows/Fonts/NotoSans-Regular.ttf",
+  bold  = "C:/Windows/Fonts/NotoSans-Bold.ttf"
+)
+tipo_letra <- "Noto Sans T06"
 
 # tamanhos do texto, em pontos (como ficam impressos em A3)
 tam_nome     <- 10   # nome da região ao lado da casa
@@ -33,14 +38,14 @@ tam_eixo     <- 10   # texto dos eixos das tiras
 # 4 tramos de vermelho: quanto mais escuro, maior a parte do salário que vai para a renda
 limites_tramos <- c(-Inf, 30, 40, 50, Inf)
 nomes_tramos   <- c("under 30%", "30-40%", "40-50%", "over 50%")
-cores_tramos   <- c("#FBE3DA", "#F2B09B", "#E06A4E", "#A8200F")
+cores_tramos   <- c("#FEF0D9", "#FDCC8A", "#FC8D59", "#D7301F")
 
 cor_texto     <- "#1E1E1E"   # texto principal
 cinza_texto   <- "#555555"   # texto secundário
 cinza_linha   <- "#9A9A9A"   # linhas que ligam a região à casa
 cor_contorno  <- "#555555"   # contorno das casas
 cor_telhado   <- "#8C8C8C"   # telhado das casas
-cor_destaque  <- "#A8200F"   # igual ao tramo mais escuro: regiões acima de 50%
+cor_destaque  <- "#D7301F"   # igual ao tramo mais escuro: regiões acima de 50%
 cinza_porto   <- "#444444"   # nome do AM Porto nas tiras
 cinza_pista   <- "#E6E6E6"   # linha cinzenta onde ficam os pontos
 
@@ -255,7 +260,8 @@ ligacoes <- casas |>
 # ---------------------------------------------------------------------
 # a casa de exemplo explica como se leem as outras
 
-leg_x <- -150                       # lado esquerdo da casa de exemplo
+leg_x <- -200                       # lado esquerdo da casa de exemplo
+leg_x_cores <- -150 + 340           # onde começam os 4 tramos de cor
 leg_y <- altura_continente + 75
 
 casa_leg <- tibble(
@@ -281,7 +287,7 @@ notas_leg <- tibble(
 caixas_tramos <- tibble(
   texto = nomes_tramos,
   cor   = cores_tramos,
-  x0    = leg_x + 340 + (0:3) * 55,
+  x0    = leg_x_cores + (0:3) * 55,
   x1    = x0 + 50,
   y0    = leg_y - 4,
   y1    = leg_y + 8
@@ -424,7 +430,7 @@ p_mapa <- ggplot() +
 
   # legenda: os 4 tramos de cor (as mesmas cores do mapa e das casas)
   geom_text(
-    aes(x = leg_x + 340, y = leg_y + 22, label = "Rent as % of the salary, 2024"),
+    aes(x = leg_x_cores, y = leg_y + 22, label = "Rent as % of the salary, 2024"),
     hjust = 0, family = tipo_letra, fontface = "bold", size = em_pt(tam_legenda + 1), colour = cor_texto
   ) +
   geom_rect(
