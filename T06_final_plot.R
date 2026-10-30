@@ -1,8 +1,8 @@
 # T06 — Rental affordability, Portugal, 2024
 #
 # Ficheiros necessários:
-#   data/merged_data.csv
-#   data/nuts3_portugal_2024.geojson
+#   data/T06_merged_data.csv
+#   data/T06_nuts3_portugal_2024.geojson
 #
 # A imagem é guardada na pasta atual.
 
@@ -87,7 +87,7 @@ em_pt <- function(tamanho) {
 # ---------------------------------------------------------------------
 
 dados_todos <- read_csv(
-  "data/merged_data.csv",
+  "data/T06_merged_data.csv",
   col_types = cols(nuts_code = col_character()),
   show_col_types = FALSE
 )
@@ -111,7 +111,7 @@ colunas_em_falta <- setdiff(
 
 if (length(colunas_em_falta) > 0) {
   stop(
-    "Faltam estas colunas em merged_data.csv: ",
+    "Faltam estas colunas em T06_merged_data.csv: ",
     paste(colunas_em_falta, collapse = ", ")
   )
 }
@@ -120,7 +120,7 @@ dados_2024 <- dados_todos |>
   filter(year == 2024)
 
 if (nrow(dados_2024) == 0) {
-  stop("O ficheiro merged_data.csv não tem dados para 2024.")
+  stop("O ficheiro T06_merged_data.csv não tem dados para 2024.")
 }
 
 if (anyDuplicated(dados_2024$nuts_code) > 0) {
@@ -221,7 +221,7 @@ caracteristicas <- dados_2024 |>
 # ---------------------------------------------------------------------
 
 formas <- st_read(
-  "data/nuts3_portugal_2024.geojson",
+  "data/T06_nuts3_portugal_2024.geojson",
   quiet = TRUE
 ) |>
   mutate(
